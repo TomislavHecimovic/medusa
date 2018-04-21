@@ -1,0 +1,5 @@
+The library (and the .chm) was downloaded in March 2018 from:
+http://rivatuner.doomdealer.com/afterburner/API/MSIAfterburner-dot-NET/
+
+Version: 1.1.1.0
+LegalCopyright: "Copyright © Nick Connors 2011"
