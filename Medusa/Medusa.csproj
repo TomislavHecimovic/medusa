@@ -62,7 +62,9 @@
     <Compile Include="src\actors\DataAggregator.cs" />
     <Compile Include="src\actors\GpuAccessor.cs" />
     <Compile Include="src\actors\GpuTicker.cs" />
+    <Compile Include="src\Exceptions.cs" />
     <Compile Include="src\models\Gpu.cs" />
+    <Compile Include="src\utils\MsiAfterburner.cs" />
     <Compile Include="src\utils\Windows.cs" />
     <Compile Include="src\views\Busy.cs" />
     <Page Include="MainWindow.xaml">
