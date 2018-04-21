@@ -54,7 +54,7 @@ namespace Medusa.Utils
             if(installPath is string)
             {
                 string path = System.IO.Path.GetDirectoryName(((string)installPath).Replace("\"", ""));
-                if(System.IO.File.Exists(path))
+                if(System.IO.Directory.Exists(path))
                 {
                     return path;
                 }
